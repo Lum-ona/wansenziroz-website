@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+# Home Page:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Hero Section: A striking headline, a brief tagline, and a captivating image or video representing your brand.
+2. About Us: A concise introduction to your company and its mission.
+3. Services Overview: A brief overview of your core services.
+4. Featured Projects: Highlights of recent or top projects.
+5. Call to Action: Encouragement for visitors to explore further or contact you.
 
-## Available Scripts
+# About Us Page:
 
-In the project directory, you can run:
+1. Company History: A brief history of Wansenziroz.
+2. Mission and Values: Your organization's core values and mission statement.
+3. Team: Profiles of key team members.
+4. Awards and Recognition: Any industry awards or recognitions you've received.
+5. Why Choose Us: Reasons why clients should choose your services.
 
-### `npm start`
+# Services Page:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Service Listings: Separate sections for each service (e.g., Web Development, App Development, etc.).
+2. Service Descriptions: Detailed descriptions of each service, including what it involves and its benefits.
+3. Pricing Table: An overview of your pricing options.
+4. CTA: Encourage visitors to contact you for more information or to request a quote.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Pricing Page:
 
-### `npm test`
+1. Service Packages: Detailed descriptions of each service package (Basic, Advanced, Premium).
+2. Pricing Details: A breakdown of costs for each package.
+3. Payment Options: Information on payment methods and terms.
+4. CTA: Encourage visitors to choose a package or contact you for custom solutions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Portfolio Page:
 
-### `npm run build`
+1. Project Showcase: A gallery or grid of your past projects.
+2. Project Descriptions: Details about each project, including client goals and your solutions.
+3. Results: Metrics or outcomes achieved.
+4. CTA: Invite visitors to view more projects or contact you.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Code Rhythm Page:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Program Overview: Explanation of the Code Rhythm program, its goals, and benefits.
+2. Course Details: Information on each course, including content and duration.
+3. Pricing: Details about course fees and payment options.
+4. Testimonials: Feedback from past Code Rhythm participants.
+5. CTA: Encourage enrollment or inquiries.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Collaborations Page:
 
-### `npm run eject`
+1. Partnerships: Information about partnering with businesses and innovation hubs.
+2. Benefits: Advantages of collaborating with Wansenziroz.
+3. Contact: Instructions for reaching out to discuss potential collaborations.
+4. CTA: Invite interested parties to get in touch.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Contact Us Page:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Contact Form: A form for inquiries or messages.
+2. Contact Information: Your email, phone number, and office address.
+3. Social Media Links: Links to your social media profiles.
+4. Map: A location map if you have a physical office.
+5. CTA: Encourage visitors to reach out for any queries.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Blog Page:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Blog Posts: A list of your latest articles.
+2. Categories: A way to filter posts by topic.
+3. Search Bar: A search feature for specific content.
+4. CTA: Encourage visitors to explore your blog.
 
-## Learn More
+# FAQ Page:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Common Questions: Answers to frequently asked questions about your services, courses, etc.
+2. Categories: Organize questions by topic.
+3. CTA: Invite visitors to contact you for further inquiries.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Testimonials Page:
 
-### Code Splitting
+1. Client Testimonials: Quotes or reviews from satisfied clients.
+2. Student Testimonials: Feedback from Code Rhythm participants.
+3. CTA: Encourage visitors to contact you for references.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Legal Page:
 
-### Analyzing the Bundle Size
+1. Privacy Policy: Details on how you handle user data.
+2. Terms of Service: Rules and regulations for using your website and services.
+3. CTA: Inform visitors about your policies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Career Page (Optional):
 
-### Making a Progressive Web App
+1. Job Openings: Listings for job positions or internships.
+2. Application Instructions: How to apply for positions.
+3. CTA: Encourage interested individuals to submit their applications.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Products Page:
 
-### Advanced Configuration
+1. Product Listings: Display your available products (websites, apps, algorithms) for sale.
+2. Product Descriptions: Detailed information about each product, including features and pricing.
+3. Portfolio Integration: Highlight projects built for Electrixitaty's other initiatives.
+4. CTA: Encourage visitors to purchase products or inquire about custom solutions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Partnerships Page:
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. School Partnerships: Information about collaborating with primary, high schools, and universities for Code Rhythm.
+2. Project Collaborations: Highlight partnerships with other projects like Gokijany, Dripup, Inongyama, Chamaap, Veezavyz, and Yousalama.
+3. Benefits: Explain the advantages of partnering with Wansenziroz.
+4. Contact: Instructions for schools and organizations to get in touch.
+5. CTA: Invite potential partners to explore collaboration opportunities.
