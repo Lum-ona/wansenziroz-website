@@ -10,6 +10,7 @@ import Header from "./components/Header";
 import Career from "./pages/career/Career";
 import Contact from "./pages/contact/Contact";
 import Products from "./pages/products/Products";
+import CodeRhythm from "./pages/codeRhythm/CodeRhythm";
 import Services from "./pages/services/Services";
 import Portfolio from "./pages/portfolio/Portfolio";
 import Partnerships from "./pages/partnerships/Partnerships";
@@ -22,19 +23,20 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route index path="/" element={<FAQ />} />
-          <Route index path="/" element={<Blog />} />
+          <Route path="/faq" element={<FAQ />} />
+          <Route path="/blog" element={<Blog />} />
           <Route index path="/" element={<Home />} />
-          <Route index path="/" element={<About />} />
-          <Route index path="/" element={<Legal />} />
-          <Route index path="/" element={<Career />} />
-          <Route index path="/" element={<Contact />} />
-          <Route index path="/" element={<Products />} />
-          <Route index path="/" element={<Services />} />
-          <Route index path="/" element={<Portfolio />} />
-          <Route index path="/" element={<Partnerships />} />
-          <Route index path="/" element={<Testimonials />} />
-          <Route index path="/" element={<Collaboration />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/legal" element={<Legal />} />
+          <Route path="/career" element={<Career />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/code-rhythm" element={<CodeRhythm />} />
+          <Route path="/partnerships" element={<Partnerships />} />
+          <Route path="/testimonials" element={<Testimonials />} />
+          <Route path="/collaboration" element={<Collaboration />} />
         </Routes>
         <Footer />
       </BrowserRouter>

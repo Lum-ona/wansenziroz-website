@@ -1,0 +1,19 @@
+.header {
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.header .logo {
+  width: 100px;
+}
+.header .nav-options {
+  width: 80%;
+  height: inherit;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 14px;
+}
